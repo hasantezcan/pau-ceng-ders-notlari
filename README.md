@@ -82,7 +82,7 @@
 
 | Kod        | Ders Ad                                 | K(AKTS) | Ders grubu          |
 | ---------- | --------------------------------------- | ------- | ------------------- |
-| `CENG 403` | VERİ İLETİŞİMİ VE BİLGİSAYAR AĞLARI     | `6  `   | Zorunlu             |
+| `CENG 403` | [VERİ İLETİŞİMİ VE BİLGİSAYAR AĞLARI](dersler/donem-7/VERİ%20İLETİŞİMİ%20VE%20BİLGİSAYAR%20AĞLARI.md)     | `6  `   | Zorunlu             |
 | `IENG 487` | İŞ SAĞLIĞI VE GÜVENLİĞİ - I             | `1,5`   | Ortak Zorunlu       |
 | `CENG 409` | SİSTEM ANALİZİ VE TASARIMI              | `5  `   | Bölüm Seçmeli-1     |
 | `CENG 415` | EVRİMSEL HESAPLAMA                      | `5  `   | Bölüm Seçmeli-1     |
