@@ -1,4 +1,5 @@
-## VERİ İLETİŞİMİ VE BİLGİSAYAR AĞLARI
+## VERİ İLETİŞİMİ VE BİLGİSAYAR AĞLARI - `CENG 403`
+> Ders katoloğu bağlantısı: [`CENG 403`](https://ebs.pusula.pau.edu.tr/BilgiGoster/Ders.aspx?lng=1&dzy=3&br=21&bl=65&pr=167&dm=797&ps=3&dk=8503&ds=0) 
 
 | No  | Not Sahibi                                       | Dönemi   | Dersi Veren Hoca                                        | Not Bağlantısı                                                                                         | Not durumu      |
 | --- | ------------------------------------------------ | -------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------- |

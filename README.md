@@ -7,7 +7,7 @@
 | `TKD 101`  | TÜRK DİLİ - I                          | `1,5`   | Ortak Zorunlu          |
 | `ATI 101`  | ATATÜRK İLKELERİ VE İNKILAP TARİHİ - I | `1,5`   | Ortak Zorunlu          |
 | `CENG 101` | ALGORİTMALAR VE PROGRAMLAMA            | `8  `   | Zorunlu                |
-| `CENG 103` | [BİLGİSAYAR MÜHENDİSLİĞİNE GİRİŞ](dersler/donem-1/BİLGİSAYAR%20MÜHENDİSLİĞİNE%20GİRİŞ.md)        | `6,5`   | Zorunlu                |
+| [**`CENG 140`**](https://ebs.pusula.pau.edu.tr/BilgiGoster/Ders.aspx?lng=1&dzy=3&br=21&bl=65&pr=167&dm=797&ps=3&dk=134395&ds=0) | [BİLGİSAYAR MÜHENDİSLİĞİNE GİRİŞ](dersler/donem-1/BİLGİSAYAR%20MÜHENDİSLİĞİNE%20GİRİŞ.md)        | `6,5`   | Zorunlu                |
 | `MAT 113`  | GENEL MATEMATİK - I                    | `5  `   | Bölüm Dışı Zorunlu     |
 | `FIZ 111`  | GENEL FİZİK - I                        | `3  `   | Bölüm Dışı Zorunlu     |
 | `FIZ 103`  | FİZİK LABORATUARI - I                  | `2  `   | Bölüm Dışı Zorunlu     |
@@ -36,7 +36,7 @@
 | ---------- | ----------------------- | ------- | ------------------ |
 | `CENG 201` | VERİ YAPILARI           | `8`     | Zorunlu            |
 | `CENG 205` | SAYISAL SİSTEMLER       | `5`     | Zorunlu            |
-| `MAT 230`  | [SAYISAL ÇÖZÜMLEME](dersler/donem-3/SAYISAL%20ÇÖZÜMLEME.md) | `5`     | Bölüm Dışı Zorunlu |
+| [**`MAT 230`**](https://ebs.pusula.pau.edu.tr/BilgiGoster/Ders.aspx?lng=1&dzy=3&br=21&bl=65&pr=167&dm=797&ps=3&dk=81315&ds=0)  | [SAYISAL ÇÖZÜMLEME](dersler/donem-3/SAYISAL%20ÇÖZÜMLEME.md) | `5`     | Bölüm Dışı Zorunlu |
 | `MAT 237`  | LİNEER CEBİR            | `5`     | Zorunlu            |
 | `YDO 204`  | MESLEKİ YABANCI DİL - I | `2`     | Sosyal Seçmeli-I   |
 | `CENG 241` | BİLİMSEL HESAPLAMA      | `5`     | Zorunlu            |
@@ -82,7 +82,7 @@
 
 | Kod        | Ders Ad                                 | K(AKTS) | Ders grubu          |
 | ---------- | --------------------------------------- | ------- | ------------------- |
-| `CENG 403` | [VERİ İLETİŞİMİ VE BİLGİSAYAR AĞLARI](dersler/donem-7/VERİ%20İLETİŞİMİ%20VE%20BİLGİSAYAR%20AĞLARI.md)     | `6  `   | Zorunlu             |
+| [**`CENG 403`**](https://ebs.pusula.pau.edu.tr/BilgiGoster/Ders.aspx?lng=1&dzy=3&br=21&bl=65&pr=167&dm=797&ps=3&dk=8503&ds=0) | [VERİ İLETİŞİMİ VE BİLGİSAYAR AĞLARI](dersler/donem-7/VERİ%20İLETİŞİMİ%20VE%20BİLGİSAYAR%20AĞLARI.md)     | `6  `   | Zorunlu             |
 | `IENG 487` | İŞ SAĞLIĞI VE GÜVENLİĞİ - I             | `1,5`   | Ortak Zorunlu       |
 | `CENG 409` | SİSTEM ANALİZİ VE TASARIMI              | `5  `   | Bölüm Seçmeli-1     |
 | `CENG 415` | EVRİMSEL HESAPLAMA                      | `5  `   | Bölüm Seçmeli-1     |
