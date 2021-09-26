@@ -36,7 +36,7 @@
 | ---------- | ----------------------- | ------- | ------------------ |
 | `CENG 201` | VERİ YAPILARI           | `8`     | Zorunlu            |
 | `CENG 205` | SAYISAL SİSTEMLER       | `5`     | Zorunlu            |
-| `MAT 230`  | SAYISAL ÇÖZÜMLEME       | `5`     | Bölüm Dışı Zorunlu |
+| `MAT 230`  | [SAYISAL ÇÖZÜMLEME](dersler/donem-3/SAYISAL%20ÇÖZÜMLEME.md) | `5`     | Bölüm Dışı Zorunlu |
 | `MAT 237`  | LİNEER CEBİR            | `5`     | Zorunlu            |
 | `YDO 204`  | MESLEKİ YABANCI DİL - I | `2`     | Sosyal Seçmeli-I   |
 | `CENG 241` | BİLİMSEL HESAPLAMA      | `5`     | Zorunlu            |
