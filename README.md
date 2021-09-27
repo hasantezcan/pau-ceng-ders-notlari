@@ -4,7 +4,7 @@
 
 > Nasıl katkı sağlarım: [Katkı sağlama rehberi için tıkla!](Katkı%20sağlama%20rehberi.md)
 
-## Dönem
+## 1. Dönem
 
 | Kod        | Ders Ad                                | K(AKTS) | Ders grubu             |
 | ---------- | -------------------------------------- | ------- | ---------------------- |
@@ -18,7 +18,7 @@
 | `ING 117`  | ORTA İNGİLİZCE - I                     | `2,5`   | Yabancı Dil-I          |
 | `GSB 101`  | BEDEN EĞİTİMİ - I                      | `1,5`   | İsteğe Bağlı Seçmeli-1 |
 
-## Dönem 
+## 2. Dönem 
 
 | Kod        | Ders Ad                                 | K(AKTS) | Ders grubu                 |
 | ---------- | --------------------------------------- | ------- | -------------------------- |
@@ -34,7 +34,7 @@
 | `ING 118`  | ORTA İNGİLİZCE - II                     | `2,5`   | Yabancı Dil-II             |
 | `ING 112`  | İLERİ İNGİLİZCE - II                    | `2,5`   | İsteğe Bağlı Yabancı Dil-2 |
 
-## Dönem
+## 3. Dönem
 
 | Kod        | Ders Ad                 | K(AKTS) | Ders grubu         |
 | ---------- | ----------------------- | ------- | ------------------ |
@@ -45,7 +45,7 @@
 | `YDO 204`  | MESLEKİ YABANCI DİL - I | `2`     | Sosyal Seçmeli-I   |
 | `CENG 241` | BİLİMSEL HESAPLAMA      | `5`     | Zorunlu            |
 
-## Dönem
+## 4. Dönem
 
 | Kod        | Ders Ad                                  | K(AKTS) | Ders grubu         |
 | ---------- | ---------------------------------------- | ------- | ------------------ |
@@ -56,7 +56,7 @@
 | `MAT 357`  | OLASILIK VE İSTATİSTİK                   | `5  `   | Zorunlu            |
 | `YDO 303`  | MESLEKİ YABANCI DİL - II                 | `2  `   | Sosyal Seçmeli-II  |
 
-## Dönem
+## 5. Dönem
 
 | Kod        | Ders Ad                                         | K(AKTS) | Ders grubu         |
 | ---------- | ----------------------------------------------- | ------- | ------------------ |
@@ -69,7 +69,7 @@
 | `CENG 315` | VERİTABANI YÖNETİMİ VE MODELLEMESİ LABORATUVARI | `2,5`   | Zorunlu            |
 
 
-## Dönem
+## 6. Dönem
 
 | Kod        | Ders Ad                               | K(AKTS) | Ders grubu         |
 | ---------- | ------------------------------------- | ------- | ------------------ |
@@ -82,7 +82,7 @@
 | `IENG 421` | İNSAN KAYNAKLARI YÖNETİMİ             | `2`     | Sosyal Seçmeli-IV  |
 
 
-## Dönem
+## 7. Dönem
 
 | Kod        | Ders Ad                                 | K(AKTS) | Ders grubu          |
 | ---------- | --------------------------------------- | ------- | ------------------- |
@@ -94,7 +94,7 @@
 | `IENG 441` | PAZARLAMA YÖNETİMİ                      | `2  `   | Sosyal Seçmeli-V    |
 | `CENG 401` | LİSANS TEZİ -I                          | `5,5`   | Lisans Tezi Seçmeli |
 
-## Dönem
+## 8. Dönem
 
 | Kod        | Ders Ad                                     | K(AKTS) | Ders grubu          |
 | ---------- | ------------------------------------------- | ------- | ------------------- |
