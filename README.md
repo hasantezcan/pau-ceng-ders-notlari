@@ -10,7 +10,7 @@
 | ---------- | -------------------------------------- | ------- | ---------------------- |
 | `TKD 101`  | TÜRK DİLİ - I                          | `1,5`   | Ortak Zorunlu          |
 | `ATI 101`  | ATATÜRK İLKELERİ VE İNKILAP TARİHİ - I | `1,5`   | Ortak Zorunlu          |
-| `CENG 101` | ALGORİTMALAR VE PROGRAMLAMA            | `8  `   | Zorunlu                |
+| [**`CENG 101`**](https://ebs.pusula.pau.edu.tr/BilgiGoster/Ders.aspx?lng=1&dzy=3&br=21&bl=65&pr=167&dm=797&ps=3&dk=134393&ds=0) | [ALGORİTMALAR VE PROGRAMLAMA](dersler/donem-1/ALGORİTMALAR%20VE%20PROGRAMLAMA.md)            | `8  `   | Zorunlu                |
 | [**`CENG 140`**](https://ebs.pusula.pau.edu.tr/BilgiGoster/Ders.aspx?lng=1&dzy=3&br=21&bl=65&pr=167&dm=797&ps=3&dk=134395&ds=0) | [BİLGİSAYAR MÜHENDİSLİĞİNE GİRİŞ](dersler/donem-1/BİLGİSAYAR%20MÜHENDİSLİĞİNE%20GİRİŞ.md)        | `6,5`   | Zorunlu                |
 | `MAT 113`  | GENEL MATEMATİK - I                    | `5  `   | Bölüm Dışı Zorunlu     |
 | `FIZ 111`  | GENEL FİZİK - I                        | `3  `   | Bölüm Dışı Zorunlu     |
