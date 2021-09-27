@@ -1,6 +1,10 @@
 # PAÜ Bilgisayar Mühendisliği Ders Notları
 
-## 1. Dönem
+> Pamukkale Üniversitesi Bilgisayar Mühendisliği bölümü öğrencilerinin bölüm dersleri hakkında tutmuş oldukları notlar. 
+
+> Nasıl katkı sağlarım: [Katkı sağlama rehberi için tıkla!](Katkı%20sağlama%20rehberi.md)
+
+## Dönem
 
 | Kod        | Ders Ad                                | K(AKTS) | Ders grubu             |
 | ---------- | -------------------------------------- | ------- | ---------------------- |
@@ -14,7 +18,7 @@
 | `ING 117`  | ORTA İNGİLİZCE - I                     | `2,5`   | Yabancı Dil-I          |
 | `GSB 101`  | BEDEN EĞİTİMİ - I                      | `1,5`   | İsteğe Bağlı Seçmeli-1 |
 
-## 2. Dönem 
+## Dönem 
 
 | Kod        | Ders Ad                                 | K(AKTS) | Ders grubu                 |
 | ---------- | --------------------------------------- | ------- | -------------------------- |
@@ -30,7 +34,7 @@
 | `ING 118`  | ORTA İNGİLİZCE - II                     | `2,5`   | Yabancı Dil-II             |
 | `ING 112`  | İLERİ İNGİLİZCE - II                    | `2,5`   | İsteğe Bağlı Yabancı Dil-2 |
 
-## 3. Dönem
+## Dönem
 
 | Kod        | Ders Ad                 | K(AKTS) | Ders grubu         |
 | ---------- | ----------------------- | ------- | ------------------ |
@@ -41,7 +45,7 @@
 | `YDO 204`  | MESLEKİ YABANCI DİL - I | `2`     | Sosyal Seçmeli-I   |
 | `CENG 241` | BİLİMSEL HESAPLAMA      | `5`     | Zorunlu            |
 
-## 4. Dönem
+## Dönem
 
 | Kod        | Ders Ad                                  | K(AKTS) | Ders grubu         |
 | ---------- | ---------------------------------------- | ------- | ------------------ |
@@ -52,7 +56,7 @@
 | `MAT 357`  | OLASILIK VE İSTATİSTİK                   | `5  `   | Zorunlu            |
 | `YDO 303`  | MESLEKİ YABANCI DİL - II                 | `2  `   | Sosyal Seçmeli-II  |
 
-## 5. Dönem
+## Dönem
 
 | Kod        | Ders Ad                                         | K(AKTS) | Ders grubu         |
 | ---------- | ----------------------------------------------- | ------- | ------------------ |
@@ -65,7 +69,7 @@
 | `CENG 315` | VERİTABANI YÖNETİMİ VE MODELLEMESİ LABORATUVARI | `2,5`   | Zorunlu            |
 
 
-## 6. Dönem
+## Dönem
 
 | Kod        | Ders Ad                               | K(AKTS) | Ders grubu         |
 | ---------- | ------------------------------------- | ------- | ------------------ |
@@ -78,19 +82,19 @@
 | `IENG 421` | İNSAN KAYNAKLARI YÖNETİMİ             | `2`     | Sosyal Seçmeli-IV  |
 
 
-## 7. Dönem
+## Dönem
 
 | Kod        | Ders Ad                                 | K(AKTS) | Ders grubu          |
 | ---------- | --------------------------------------- | ------- | ------------------- |
 | [**`CENG 403`**](https://ebs.pusula.pau.edu.tr/BilgiGoster/Ders.aspx?lng=1&dzy=3&br=21&bl=65&pr=167&dm=797&ps=3&dk=8503&ds=0) | [VERİ İLETİŞİMİ VE BİLGİSAYAR AĞLARI](dersler/donem-7/VERİ%20İLETİŞİMİ%20VE%20BİLGİSAYAR%20AĞLARI.md)     | `6  `   | Zorunlu             |
 | `IENG 487` | İŞ SAĞLIĞI VE GÜVENLİĞİ - I             | `1,5`   | Ortak Zorunlu       |
 | `CENG 409` | SİSTEM ANALİZİ VE TASARIMI              | `5  `   | Bölüm Seçmeli-1     |
-| `CENG 415` | EVRİMSEL HESAPLAMA                      | `5  `   | Bölüm Seçmeli-1     |
+| [**`CENG 415`**](https://ebs.pusula.pau.edu.tr/BilgiGoster/Ders.aspx?lng=1&dzy=3&br=21&bl=65&pr=167&dm=797&ps=3&dk=36168&ds=0) | [EVRİMSEL HESAPLAMA](dersler/donem-7/EVRİMSEL%20HESAPLAMA.md)                      | `5  `   | Bölüm Seçmeli-1     |
 | `EEEN 443` | PROGRAMLANABİLİR MANTIK DENETLEYİCİLERİ | `5  `   | Teknik Seçmeli-II   |
 | `IENG 441` | PAZARLAMA YÖNETİMİ                      | `2  `   | Sosyal Seçmeli-V    |
 | `CENG 401` | LİSANS TEZİ -I                          | `5,5`   | Lisans Tezi Seçmeli |
 
-## 8. Dönem
+## Dönem
 
 | Kod        | Ders Ad                                     | K(AKTS) | Ders grubu          |
 | ---------- | ------------------------------------------- | ------- | ------------------- |
@@ -102,3 +106,8 @@
 | `YDO 302`  | İŞ HAYATI İÇİN YABANCI DİL                  | `2  `   | Sosyal Seçmeli-6    |
 | `CENG 402` | LİSANS TEZİ - II                            | `5,5`   | Lisans Tezi Seçmeli |
 
+
+---
+ ## Katkıda bulunanlar
+<!-- NOT: BU KISIM ALFABETIK SIRA ILE SIRALANMALI -->
+- Hasan Tezcan - [Github](https://github.com/hasantezcan), [Linkedin](https://www.linkedin.com/in/hasantezcann/)
