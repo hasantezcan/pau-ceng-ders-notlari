@@ -110,5 +110,6 @@
 ---
  ## Katkıda bulunanlar
 <!-- NOT: BU KISIM ALFABETIK SIRA ILE SIRALANMALI -->
+- Bircan Kut - [Github](https://github.com/bircankut), [Linkedin](https://www.linkedin.com/in/bircankut/)
 - Elifnur Bulut - [Github](https://github.com/elifbulut), [Linkedin](https://www.linkedin.com/in/elifnurbulut/)
 - Hasan Tezcan - [Github](https://github.com/hasantezcan), [Linkedin](https://www.linkedin.com/in/hasantezcann/)
